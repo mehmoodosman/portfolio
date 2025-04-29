@@ -6,24 +6,3 @@
   - Add my Resume with google doc link
 
 
-Account Title
-OSMAN MEHMOOD
-
-Account Number
-00221008782510
-
-IBAN
-PK93ALFH0022001008782510
-
-Swift Code
-ALFHPKKAXXX
-
-Branch Name
-Phase VII, Khayaban-e-Ittehad
-
-Branch Code
-0022
-
-Bank Name
-Bank Alfalah
-
