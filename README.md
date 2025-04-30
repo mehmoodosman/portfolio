@@ -6,3 +6,4 @@
   - Add my Resume with google doc link
 
 
+- https://colab.research.google.com/github/louispaulet/OCRmyPDF_google_colab/blob/main/PDF_OCR.ipynb#scrollTo=T6UZ_pALYo2b
