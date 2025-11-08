@@ -113,6 +113,17 @@ svg:hover path {
   fill: var(--color-accent);
 }
 
+i.fa-brands.fa-medium {
+  width: 1.3125rem;
+  height: 1.25rem;
+}
+
+i.fa-brands.fa-medium:hover {
+  color: var(--color-accent);
+  transition: all 150ms ease-in-out;
+  transform: scale(1.125);
+}
+
 svg:hover {
   transition: all 150ms ease-in-out;
   transform: scale(1.125);
@@ -127,6 +138,7 @@ svg:hover {
   width: 1.3125rem;
   height: 1.25rem;
 }
+
 
 .twitter {
   width: 1.5rem;
